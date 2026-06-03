@@ -16,3 +16,5 @@ __pycache__/
 *.jl.cov
 *.jl.mem
 Manifest.toml
+
+**/*.quarto_ipynb
